@@ -1,2 +1,2 @@
-# intro-to-github
+# README
 yippee a readme file
